@@ -10,7 +10,7 @@ If you are a Mod 2 student looking for a way to practice your array iterator met
 - Run `node index.js` in your terminal to play!
 
 ### Preview of App:
-https://www.loom.com/share/cfc878c3940740eca56179479b9d7767
+[GIPH of game in action!](https://www.loom.com/share/cfc878c3940740eca56179479b9d7767)
 
 ### Context:
 This was our first solo project in Mod 2 at Turing. The project was completed in two days after seven full weeks as a developer. The spec for this project can be found [here](https://frontend.turing.edu/projects/flash-cards.html).
