@@ -31,6 +31,7 @@ Jennifer Yacoubian ([GitHub](https://github.com/jmyacobn), [LinkedIn](https://ww
 - Mocha
 - Chai
 - Github
+- Terminal
 
 ### Wins:
 - Although we wrote code to pass unit tests throughout Mod 1, this was my first time writing my own unit tests using Mocha and Chai frameworks.
